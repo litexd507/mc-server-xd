@@ -1776,3 +1776,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [07Aug2025 15:41:26.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Aug2025 15:43:59.808] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1714, l='ServerLevel[world]', x=117.30, y=66.42, z=-459.14] died, message: 'Villager was slain by Runner'
 [07Aug2025 15:44:37.105] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1711, l='ServerLevel[world]', x=86.51, y=66.00, z=-460.30] died, message: 'Villager was slain by Walker'
+[07Aug2025 15:46:20.703] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/1719, l='ServerLevel[world]', x=60.28, y=93.17, z=-507.15] died, message: 'Fisherman died'
+[07Aug2025 15:46:26.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 15:46:26.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 15:51:26.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Aug2025 15:51:26.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Aug2025 15:51:33.155] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/1723, l='ServerLevel[world]', x=102.44, y=67.00, z=-467.17] died, message: 'Leatherworker was slain by Runner'
+[07Aug2025 15:54:17.802] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/1750, l='ServerLevel[world]', x=118.80, y=88.38, z=-536.80] died, message: 'Fisherman died because of Runner'
+[07Aug2025 15:54:42.904] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1712, l='ServerLevel[world]', x=103.70, y=67.18, z=-460.55] died, message: 'Farmer was slain by Walker'
+[07Aug2025 15:55:06.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd has made the advancement [Sweet Dreams]
