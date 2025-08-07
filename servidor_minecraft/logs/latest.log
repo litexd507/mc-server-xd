@@ -105,3 +105,29 @@
 [07Aug2025 01:37:18.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd joined the game
 [07Aug2025 01:38:16.679] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LITEDUKxd lost connection: Disconnected
 [07Aug2025 01:38:16.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd left the game
+[07Aug2025 01:45:05.207] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7017471b[id=<null>,name=LITEDUKxd,properties={},legacy=false] (/127.224.192.125:48049) lost connection: Disconnected
+[07Aug2025 01:47:18.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LITEDUKxd[/127.224.192.125:47865] logged in with entity id 1701 at (-163.90263069787608, 65.0, 271.1715579792069)
+[07Aug2025 01:47:18.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd joined the game
+[07Aug2025 01:47:43.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LITEDUKxd lost connection: Disconnected
+[07Aug2025 01:47:43.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd left the game
+[07Aug2025 01:47:48.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LITEDUKxd[/127.224.192.125:57347] logged in with entity id 1985 at (-170.5501528885461, 62.0, 271.30000001192093)
+[07Aug2025 01:47:48.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd joined the game
+[07Aug2025 01:47:51.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LITEDUKxd lost connection: Disconnected
+[07Aug2025 01:47:51.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd left the game
+[07Aug2025 01:48:33.676] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LITEDUKxd[/127.224.192.125:43677] logged in with entity id 2261 at (-170.5501528885461, 62.0, 271.30000001192093)
+[07Aug2025 01:48:33.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd joined the game
+[07Aug2025 01:48:43.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made LITEDUKxd a server operator
+[07Aug2025 01:48:55.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Set own game mode to Creative Mode]
+[07Aug2025 01:49:27.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LITEDUKxd moved too quickly! -9.63133526673721,4.124850926003418,-1.9514322782712838
+[07Aug2025 01:49:36.880] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LITEDUKxd lost connection: Disconnected
+[07Aug2025 01:49:36.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd left the game
+[07Aug2025 01:49:50.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Aug2025 01:49:50.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Aug2025 01:49:50.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Aug2025 01:49:50.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Aug2025 01:49:53.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Aug2025 01:49:53.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Aug2025 01:49:53.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Aug2025 01:49:53.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Aug2025 01:49:53.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Aug2025 01:49:53.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
