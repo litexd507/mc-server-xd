@@ -535,3 +535,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [07Aug2025 15:30:21.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 13 [Villager Spawn Egg] to LITEDUKxd]
 [07Aug2025 15:33:33.254] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/1713, l='ServerLevel[world]', x=89.65, y=73.00, z=-468.96] died, message: 'Leatherworker was slain by Walker'
 [07Aug2025 15:34:46.357] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1715, l='ServerLevel[world]', x=88.30, y=73.00, z=-464.50] died, message: 'Farmer was slain by Runner'
+[07Aug2025 15:35:37.402] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/1682, l='ServerLevel[world]', x=19.19, y=76.00, z=-451.19] died, message: 'Farmer died'
+[07Aug2025 15:36:20.353] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1707, l='ServerLevel[world]', x=33.80, y=91.00, z=-491.51] died, message: 'Villager was slain by Runner'
+[07Aug2025 15:43:59.808] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1714, l='ServerLevel[world]', x=117.30, y=66.42, z=-459.14] died, message: 'Villager was slain by Runner'
+[07Aug2025 15:44:37.105] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1711, l='ServerLevel[world]', x=86.51, y=66.00, z=-460.30] died, message: 'Villager was slain by Walker'
