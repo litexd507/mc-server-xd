@@ -553,3 +553,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [07Aug2025 17:27:28.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Set own game mode to Creative Mode]
 [07Aug2025 17:30:28.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Set own game mode to Survival Mode]
 [07Aug2025 17:30:51.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 64 [Steak] to LITEDUKxd]
+[07Aug2025 17:32:55.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Set own game mode to Creative Mode]
+[07Aug2025 17:33:26.229] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/34, l='ServerLevel[world]', x=122.91, y=67.00, z=-496.52] died, message: 'Fisherman was slain by Runner'
+[07Aug2025 17:34:38.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Set own game mode to Survival Mode]
+[07Aug2025 17:34:40.878] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/86, l='ServerLevel[world]', x=102.58, y=67.00, z=-466.42] died, message: 'Leatherworker was slain by Runner'
+[07Aug2025 17:36:42.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Set the time to 1000]
+[07Aug2025 17:38:21.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Set own game mode to Creative Mode]
+[07Aug2025 17:38:40.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Set own game mode to Survival Mode]
