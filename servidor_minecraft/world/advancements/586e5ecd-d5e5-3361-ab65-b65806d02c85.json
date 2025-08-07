@@ -494,7 +494,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-08-07 14:41:00 +0000",
-      "apple": "2025-08-07 14:49:06 +0000"
+      "apple": "2025-08-07 14:49:06 +0000",
+      "cooked_chicken": "2025-08-07 19:18:54 +0000"
     },
     "done": false
   },
@@ -576,11 +577,48 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-07 19:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-08-07 19:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-08-07 19:24:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:husk": "2025-08-07 19:24:01 +0000",
       "minecraft:zombie": "2025-08-07 19:14:32 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-08-07 19:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-07 19:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-08-07 19:19:17 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
