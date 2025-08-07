@@ -569,3 +569,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [07Aug2025 18:21:50.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=70, z=-3}
 [07Aug2025 18:22:16.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Made makelupe a server operator]
 [07Aug2025 18:22:27.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Killed LITEDUKxd]
+[07Aug2025 18:23:27.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd was killed whilst fighting makelupe
+[07Aug2025 18:23:39.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Teleported makelupe to LITEDUKxd]
+[07Aug2025 18:23:43.568] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6cd86533[id=<null>,name=3lpato,properties={},legacy=false] (/127.108.219.28:50905) lost connection: Disconnected
+[07Aug2025 18:25:49.268] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5ee21b5c[id=<null>,name=3lpato,properties={},legacy=false] (/127.108.219.28:58689) lost connection: Disconnected
