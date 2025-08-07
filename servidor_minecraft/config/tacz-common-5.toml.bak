@@ -15,6 +15,21 @@
 	#Range: 250.0 ~ 1.7976931348623157E308
 	ServerHitboxLatencyMaxSaveMs = 1000.0
 
+[gun]
+	#The default fire sound range (block)
+	#Range: > 0
+	DefaultGunFireSoundDistance = 64
+	#The silencer default fire sound range (block)
+	#Range: > 0
+	DefaultGunSilenceSoundDistance = 16
+	#The range (block) of other gun sound, reloading sound etc.
+	#Range: > 0
+	DefaultGunOtherSoundDistance = 16
+	#Whether or not the player will consume ammo in creative mode
+	CreativePlayerConsumeAmmo = true
+	#Auto reload all the guns in player inventory, useful for pvp servers
+	AutoReloadWhenRespawn = false
+
 [ammo]
 	#Warning: Ammo with explosive properties can break blocks
 	ExplosiveAmmoDestroysBlock = true
@@ -37,19 +52,4 @@
 	#This is to compensate the side effects introduced while fixing the shooter variable input issue
 	#Range: 0.01 ~ 20.0
 	GlobalBulletSpeedModifier = 2.0
-
-[gun]
-	#The default fire sound range (block)
-	#Range: > 0
-	DefaultGunFireSoundDistance = 64
-	#The silencer default fire sound range (block)
-	#Range: > 0
-	DefaultGunSilenceSoundDistance = 16
-	#The range (block) of other gun sound, reloading sound etc.
-	#Range: > 0
-	DefaultGunOtherSoundDistance = 16
-	#Whether or not the player will consume ammo in creative mode
-	CreativePlayerConsumeAmmo = true
-	#Auto reload all the guns in player inventory, useful for pvp servers
-	AutoReloadWhenRespawn = false
 
