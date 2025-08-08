@@ -512,6 +512,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-08-08 17:46:19 +0000",
       "sweet_berries": "2025-08-08 02:47:11 +0000",
       "cooked_beef": "2025-08-07 14:41:00 +0000",
       "porkchop": "2025-08-08 15:57:29 +0000",
@@ -1880,6 +1881,12 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-08-08 15:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-08-08 17:42:32 +0000"
     },
     "done": true
   },

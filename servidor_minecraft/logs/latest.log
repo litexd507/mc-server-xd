@@ -748,3 +748,27 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Aug2025 17:04:13.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from LITEDUKxd: Location (2976.2751881480217, 70.22302260994911, 118.4375) too far away from hit block BlockPos{x=2976, y=70, z=119}.
 [08Aug2025 17:19:54.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 1 [Crowbar] to LITEDUKxd]
 [08Aug2025 17:22:08.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 1 [Leather] to LITEDUKxd]
+[08Aug2025 17:29:37.065] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[08Aug2025 17:29:37.066] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[08Aug2025 17:29:37.068] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
+[08Aug2025 17:29:37.068] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
+[08Aug2025 17:29:37.068] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
+[08Aug2025 17:29:37.068] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
+[08Aug2025 17:29:37.068] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
+[08Aug2025 17:29:37.069] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
+[08Aug2025 17:33:03.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd was slain by Phantom
+[08Aug2025 17:33:14.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Teleported LITEDUKxd to makelupe]
+[08Aug2025 17:49:10.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LITEDUKxd) moved too quickly! -9.939657472564704,0.0,2.390608392266131
+[08Aug2025 17:49:10.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LITEDUKxd) moved too quickly! -10.332094643059463,0.0,2.4262212120862614
+[08Aug2025 17:49:10.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LITEDUKxd) moved too quickly! -10.098922937403131,0.0,-0.29086397617035686
+[08Aug2025 17:49:11.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LITEDUKxd) moved too quickly! 11.719136259653624,0.0,0.7441182688980348
+[08Aug2025 17:49:11.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LITEDUKxd) moved too quickly! 11.719136259653624,0.0,0.7441182688980348
+[08Aug2025 17:49:11.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LITEDUKxd) moved too quickly! 11.719136259653624,0.0,0.7392715646870158
+[08Aug2025 17:49:11.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LITEDUKxd) moved too quickly! 11.719136259653624,0.0,0.7349095310126472
+[08Aug2025 17:49:11.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LITEDUKxd) moved too quickly! 11.719136259653624,0.0,0.7309837008097304
+[08Aug2025 17:49:11.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LITEDUKxd) moved too quickly! 11.719136259653624,0.0,0.7274504537207065
+[08Aug2025 17:49:11.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of LITEDUKxd) moved too quickly! 11.719136259653624,0.0,0.7242705314248212
+[08Aug2025 17:49:40.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of makelupe) moved wrongly! 0.33138475638179443
+[08Aug2025 17:49:40.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of makelupe) moved wrongly! 0.45138717258487304
+[08Aug2025 17:49:40.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of makelupe) moved wrongly! 0.5254089819491128
+[08Aug2025 17:49:40.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of makelupe) moved wrongly! 0.6309874561347897
