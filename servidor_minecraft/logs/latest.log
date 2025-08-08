@@ -783,3 +783,32 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Aug2025 18:04:08.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Teleported makelupe to LITEDUKxd]
 [08Aug2025 18:04:18.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Teleported makelupe to LITEDUKxd]
 [08Aug2025 18:04:44.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from LITEDUKxd: Location (-41.0, 69.53322625160217, -866.4729342460632) too far away from hit block BlockPos{x=-42, y=68, z=-867}.
+[08Aug2025 18:05:16.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from LITEDUKxd: Location (-41.0, 69.71759557723999, -866.4840496182442) too far away from hit block BlockPos{x=-42, y=68, z=-867}.
+[08Aug2025 18:05:17.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from LITEDUKxd: Location (-41.0, 69.71759557723999, -866.4840496182442) too far away from hit block BlockPos{x=-42, y=68, z=-867}.
+[08Aug2025 18:05:17.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from LITEDUKxd: Location (-41.0, 69.71759557723999, -866.4840496182442) too far away from hit block BlockPos{x=-42, y=68, z=-867}.
+[08Aug2025 18:05:17.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from LITEDUKxd: Location (-41.0, 69.71759557723999, -866.4840496182442) too far away from hit block BlockPos{x=-42, y=68, z=-867}.
+[08Aug2025 18:05:18.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from LITEDUKxd: Location (-41.0, 69.71759557723999, -866.4840496182442) too far away from hit block BlockPos{x=-42, y=68, z=-867}.
+[08Aug2025 18:05:18.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from LITEDUKxd: Location (-41.0, 69.71759557723999, -866.4840496182442) too far away from hit block BlockPos{x=-42, y=68, z=-867}.
+[08Aug2025 18:05:18.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from LITEDUKxd: Location (-41.0, 69.71743559837341, -866.4853293895721) too far away from hit block BlockPos{x=-42, y=68, z=-867}.
+[08Aug2025 18:05:18.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from LITEDUKxd: Location (-41.0, 69.71743559837341, -866.4853293895721) too far away from hit block BlockPos{x=-42, y=68, z=-867}.
+[08Aug2025 18:05:18.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from LITEDUKxd: Location (-41.0, 69.71743559837341, -866.4853293895721) too far away from hit block BlockPos{x=-42, y=68, z=-867}.
+[08Aug2025 18:05:18.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from LITEDUKxd: Location (-41.0, 69.62445366382599, -866.4853293895721) too far away from hit block BlockPos{x=-42, y=68, z=-867}.
+[08Aug2025 18:06:44.669] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3lpato[/127.108.219.28:51663] logged in with entity id 130132 at (219.69999998807907, 69.0, -749.6999999880791)
+[08Aug2025 18:06:44.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato joined the game
+[08Aug2025 18:08:18.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato tried to swim in lava
+[08Aug2025 18:08:35.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Teleported 3lpato to LITEDUKxd]
+[08Aug2025 18:13:02.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <makelupe> y
+[08Aug2025 18:13:30.465] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3lpato lost connection: Timed out
+[08Aug2025 18:13:30.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato left the game
+[08Aug2025 18:14:31.768] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3lpato[/127.108.219.28:40827] logged in with entity id 131956 at (-37.387816423625324, 68.0, -883.7824289745963)
+[08Aug2025 18:14:31.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato joined the game
+[08Aug2025 18:15:01.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3lpato lost connection: Timed out
+[08Aug2025 18:15:01.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato left the game
+[08Aug2025 18:15:15.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 64 [Amethyst Shard] to LITEDUKxd]
+[08Aug2025 18:15:19.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LITEDUKxd> shh :3
+[08Aug2025 18:15:27.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <makelupe> why
+[08Aug2025 18:16:01.768] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3lpato[/127.108.219.28:54081] logged in with entity id 132215 at (-37.387816423625324, 68.0, -883.7824289745963)
+[08Aug2025 18:16:01.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato joined the game
+[08Aug2025 18:19:35.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 34 [Leather] to LITEDUKxd]
+[08Aug2025 18:23:56.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LITEDUKxd> nomas para probar luis :3
+[08Aug2025 18:24:56.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 1 [Cocktail Molotov] to LITEDUKxd]
