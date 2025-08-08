@@ -548,3 +548,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Aug2025 14:59:53.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Teleported 3lpato to LITEDUKxd]
 [08Aug2025 15:01:09.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: makelupe[/127.22.132.148:46351] logged in with entity id 2283 at (0.7754412646858346, 72.1875, -896.2047687384866)
 [08Aug2025 15:01:09.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: makelupe joined the game
+[08Aug2025 15:03:40.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: makelupe lost too much blood while trying to escape LITEDUKxd.
+[08Aug2025 15:04:25.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato was shot by makelupe
+[08Aug2025 15:05:26.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: makelupe was shot by LITEDUKxd
+[08Aug2025 15:06:09.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Teleported 3lpato to LITEDUKxd]
+[08Aug2025 15:09:38.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <makelupe> y
+[08Aug2025 15:10:01.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd was shot by makelupe
+[08Aug2025 15:10:30.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: makelupe was shot by LITEDUKxd
+[08Aug2025 15:10:40.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd was shot by makelupe
+[08Aug2025 15:11:21.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato was shot by LITEDUKxd
+[08Aug2025 15:12:14.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3lpato was kicked for floating too long!
+[08Aug2025 15:12:14.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3lpato lost connection: Disconnected
+[08Aug2025 15:12:14.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato left the game
+[08Aug2025 15:12:14.954] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Aug2025 15:12:33.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 64 [Lapis Lazuli] to LITEDUKxd]
+[08Aug2025 15:12:34.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LITEDUKxd> shhh
