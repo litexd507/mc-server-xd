@@ -571,3 +571,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Aug2025 02:07:39.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 64 [Copper Ingot] to LITEDUKxd]
 [08Aug2025 02:11:15.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LITEDUKxd> a
 [08Aug2025 02:11:20.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [LITEDUKxd] xd
+[08Aug2025 02:21:49.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 1 [Iron Pickaxe] to LITEDUKxd]
+[08Aug2025 02:27:26.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: makelupe[/127.22.132.148:34305] logged in with entity id 25775 at (1923.7056895800865, 63.0, 1072.8412467678047)
+[08Aug2025 02:27:26.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: makelupe joined the game
+[08Aug2025 02:27:35.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LITEDUKxd> t hago tp?
+[08Aug2025 02:28:54.735] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25811, l='ServerLevel[world]', x=1920.70, y=71.00, z=1029.25] died, message: 'Villager was slain by Zombie'
+[08Aug2025 02:28:59.331] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/25807, l='ServerLevel[world]', x=1920.30, y=71.00, z=1026.30] died, message: 'Weaponsmith was slain by Zombie'
+[08Aug2025 02:29:02.526] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25809, l='ServerLevel[world]', x=1920.30, y=71.00, z=1029.70] died, message: 'Villager died'
+[08Aug2025 02:29:03.379] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/25810, l='ServerLevel[world]', x=1920.30, y=71.00, z=1026.30] died, message: 'Farmer was slain by Zombie'
+[08Aug2025 02:29:07.824] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/25808, l='ServerLevel[world]', x=1920.31, y=71.30, z=1029.70] died, message: 'Weaponsmith died because of Zombie'
+[08Aug2025 02:29:37.879] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25869, l='ServerLevel[world]', x=1869.30, y=71.00, z=1016.30] died, message: 'Villager was slain by Zombie'
+[08Aug2025 02:29:53.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Teleported LITEDUKxd to makelupe]
+[08Aug2025 02:29:59.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <makelupe> dame el arma
