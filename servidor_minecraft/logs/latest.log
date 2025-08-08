@@ -583,3 +583,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Aug2025 02:29:37.879] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25869, l='ServerLevel[world]', x=1869.30, y=71.00, z=1016.30] died, message: 'Villager was slain by Zombie'
 [08Aug2025 02:29:53.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Teleported LITEDUKxd to makelupe]
 [08Aug2025 02:29:59.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <makelupe> dame el arma
+[08Aug2025 02:32:07.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Killed LITEDUKxd]
+[08Aug2025 02:32:11.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd was killed
+[08Aug2025 02:32:11.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Killed LITEDUKxd]
+[08Aug2025 02:32:23.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Teleported makelupe to LITEDUKxd]
+[08Aug2025 02:39:26.686] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3lpato[/127.108.219.28:40239] logged in with entity id 30140 at (1920.1821166209602, 63.0, 1094.475206577155)
+[08Aug2025 02:39:26.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato joined the game
+[08Aug2025 02:43:19.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato was slain by Zombie
+[08Aug2025 02:44:15.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Teleported 3lpato to LITEDUKxd]
+[08Aug2025 02:44:42.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3lpato lost connection: Disconnected
+[08Aug2025 02:44:42.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato left the game
+[08Aug2025 02:44:42.228] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Aug2025 02:47:43.840] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3lpato[/127.108.219.28:55903] logged in with entity id 33895 at (-37.28707011205335, 68.0, -884.973626025387)
+[08Aug2025 02:47:43.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato joined the game
