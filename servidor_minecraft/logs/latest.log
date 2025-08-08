@@ -812,3 +812,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Aug2025 18:19:35.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 34 [Leather] to LITEDUKxd]
 [08Aug2025 18:23:56.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LITEDUKxd> nomas para probar luis :3
 [08Aug2025 18:24:56.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 1 [Cocktail Molotov] to LITEDUKxd]
+[08Aug2025 18:28:37.863] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3lpato lost connection: Disconnected
+[08Aug2025 18:28:37.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato left the game
+[08Aug2025 18:30:30.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: makelupe died
+[08Aug2025 18:30:33.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd was slain by Runner

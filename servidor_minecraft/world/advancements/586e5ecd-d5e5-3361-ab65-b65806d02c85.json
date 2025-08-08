@@ -1866,6 +1866,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-08 18:26:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-08-08 15:47:05 +0000"
@@ -1887,6 +1893,24 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_pillar": "2025-08-08 15:44:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-08-08 18:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-08-08 18:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-08 18:30:04 +0000"
     },
     "done": true
   },
