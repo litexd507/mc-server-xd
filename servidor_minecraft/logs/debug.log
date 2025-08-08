@@ -1971,3 +1971,30 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Aug2025 01:04:27.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Aug2025 01:09:27.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Aug2025 01:09:27.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 01:14:27.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 01:14:27.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 01:16:30.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd has made the advancement [The chef]
+[08Aug2025 01:19:27.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 01:19:27.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 01:21:59.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd has made the advancement [First world Doctor]
+[08Aug2025 01:24:27.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 01:24:27.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 01:29:20.399] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #zombiekit:shelter (zombiekit:shelter) took 1 ms
+[08Aug2025 01:29:27.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 01:29:27.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 01:29:34.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Teleported LITEDUKxd to 48.500000, 71.000000, -543.500000]
+[08Aug2025 01:32:11.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Set own game mode to Creative Mode]
+[08Aug2025 01:34:27.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 01:34:27.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 01:36:26.425] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['LITEDUKxd'/16, l='ServerLevel[world]', x=-40.35, y=68.00, z=-868.75], dimensionLocationPath overworld
+[08Aug2025 01:36:57.679] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['LITEDUKxd'/16, l='ServerLevel[world]', x=-32.36, y=68.66, z=-865.75]
+[08Aug2025 01:37:13.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Set own game mode to Survival Mode]
+[08Aug2025 01:37:33.775] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['LITEDUKxd'/16, l='ServerLevel[world]', x=-41.58, y=68.00, z=-868.31], dimensionLocationPath overworld
+[08Aug2025 01:37:33.775] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['LITEDUKxd'/16, l='ServerLevel[world]', x=-41.58, y=68.00, z=-868.31] in list []
+[08Aug2025 01:37:33.826] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['LITEDUKxd'/16, l='ServerLevel[world]', x=-41.58, y=68.00, z=-868.31]
+[08Aug2025 01:37:34.776] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['LITEDUKxd'/16, l='ServerLevel[world]', x=-40.97, y=68.00, z=-868.17], dimensionLocationPath overworld
+[08Aug2025 01:37:34.776] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['LITEDUKxd'/16, l='ServerLevel[world]', x=-40.97, y=68.00, z=-868.17] in list []
+[08Aug2025 01:37:35.527] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['LITEDUKxd'/16, l='ServerLevel[world]', x=-39.15, y=68.00, z=-868.30]
+[08Aug2025 01:37:45.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 1 [Chest] to LITEDUKxd]
+[08Aug2025 01:39:27.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 01:39:27.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
