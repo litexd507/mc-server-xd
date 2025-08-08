@@ -885,3 +885,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Aug2025 19:21:33.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd died
 [08Aug2025 19:23:34.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd died
 [08Aug2025 19:32:29.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd drowned
+[08Aug2025 19:36:47.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Summoned new Iron Golem]
+[08Aug2025 19:38:19.864] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LITEDUKxd lost connection: Disconnected
+[08Aug2025 19:38:19.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd left the game
