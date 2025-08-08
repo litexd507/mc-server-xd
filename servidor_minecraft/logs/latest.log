@@ -596,3 +596,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Aug2025 02:44:42.228] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [08Aug2025 02:47:43.840] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3lpato[/127.108.219.28:55903] logged in with entity id 33895 at (-37.28707011205335, 68.0, -884.973626025387)
 [08Aug2025 02:47:43.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato joined the game
+[08Aug2025 02:50:44.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3lpato lost connection: Timed out
+[08Aug2025 02:50:44.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato left the game
+[08Aug2025 02:52:41.425] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LITEDUKxd lost connection: Disconnected
+[08Aug2025 02:52:41.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd left the game
+[08Aug2025 02:53:08.231] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@39a870b[id=<null>,name=3lpato,properties={},legacy=false] (/127.108.219.28:53881): Took too long to log in
+[08Aug2025 02:53:08.233] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@39a870b[id=<null>,name=3lpato,properties={},legacy=false] (/127.108.219.28:53881) lost connection: Took too long to log in
+[08Aug2025 02:53:08.276] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Aug2025 02:53:26.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: makelupe lost connection: Disconnected
+[08Aug2025 02:53:26.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: makelupe left the game
+[08Aug2025 02:54:02.026] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3lpato[/127.108.219.28:35469] logged in with entity id 35881 at (-37.28707011205335, 68.0, -884.973626025387)
+[08Aug2025 02:54:02.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato joined the game
+[08Aug2025 02:59:00.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato was slain by Runner
+[08Aug2025 02:59:32.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3lpato lost connection: Timed out
+[08Aug2025 02:59:32.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato left the game
+[08Aug2025 03:00:20.118] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4383e698[id=<null>,name=3lpato,properties={},legacy=false] (/127.108.219.28:49223): Took too long to log in
+[08Aug2025 03:00:20.118] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4383e698[id=<null>,name=3lpato,properties={},legacy=false] (/127.108.219.28:49223) lost connection: Took too long to log in
+[08Aug2025 03:00:20.168] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
