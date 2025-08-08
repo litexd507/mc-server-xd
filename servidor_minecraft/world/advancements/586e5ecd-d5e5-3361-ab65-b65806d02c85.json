@@ -607,6 +607,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-08-08 19:07:45 +0000",
       "minecraft:skeleton": "2025-08-07 20:49:47 +0000",
       "minecraft:spider": "2025-08-08 01:26:38 +0000",
       "minecraft:creeper": "2025-08-07 21:58:50 +0000",
@@ -1936,6 +1937,12 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-08-08 17:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-08 19:07:45 +0000"
     },
     "done": true
   },
