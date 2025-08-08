@@ -563,3 +563,186 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Aug2025 15:12:14.954] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [08Aug2025 15:12:33.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 64 [Lapis Lazuli] to LITEDUKxd]
 [08Aug2025 15:12:34.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LITEDUKxd> shhh
+[08Aug2025 15:12:43.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <makelupe> ok ok
+[08Aug2025 15:12:52.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <makelupe> tmb a mi bro
+[08Aug2025 15:13:03.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 1 [Lapis Lazuli] to makelupe]
+[08Aug2025 15:13:06.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LITEDUKxd> XD?
+[08Aug2025 15:13:09.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <makelupe> xDD
+[08Aug2025 15:13:17.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 64 [Lapis Lazuli] to makelupe]
+[08Aug2025 15:13:23.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <makelupe> lito shh
+[08Aug2025 15:13:26.622] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3lpato[/127.108.219.28:59311] logged in with entity id 5484 at (1936.559078508407, 65.06383597911214, 1082.8902679884895)
+[08Aug2025 15:13:26.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato joined the game
+[08Aug2025 15:15:28.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Teleported 3lpato to LITEDUKxd]
+[08Aug2025 15:16:58.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd lost too much blood while trying to escape makelupe.
+[08Aug2025 15:20:40.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato was shot by makelupe
+[08Aug2025 15:21:08.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Teleported 3lpato to LITEDUKxd]
+[08Aug2025 15:21:56.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: makelupe was shot by LITEDUKxd
+[08Aug2025 15:22:02.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato lost too much blood.
+[08Aug2025 15:22:13.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Killed LITEDUKxd]
+[08Aug2025 15:22:17.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd was killed
+[08Aug2025 15:22:17.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Killed LITEDUKxd]
+[08Aug2025 15:22:25.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Teleported 3lpato to LITEDUKxd]
+[08Aug2025 15:22:53.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd was shot by 3lpato
+[08Aug2025 15:23:31.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato was shot by LITEDUKxd
+[08Aug2025 15:23:42.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: makelupe was shot by LITEDUKxd
+[08Aug2025 15:23:52.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Teleported 3lpato to LITEDUKxd]
+[08Aug2025 15:24:05.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from 3lpato: Location (-41.0, 69.51807963848114, -866.3314020633698) too far away from hit block BlockPos{x=-42, y=68, z=-867}.
+[08Aug2025 15:26:12.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LITEDUKxd> luis duerme
+[08Aug2025 15:26:24.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LITEDUKxd> no te quedes como sonso viendo el shulker
+[08Aug2025 15:27:28.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3lpato lost connection: Timed out
+[08Aug2025 15:27:28.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato left the game
+[08Aug2025 15:28:04.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3lpato[/127.108.219.28:49357] logged in with entity id 10234 at (-38.5, 68.0, -867.5)
+[08Aug2025 15:28:04.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato joined the game
+[08Aug2025 15:32:09.622] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
+[08Aug2025 15:32:12.058] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 15:32:12.059] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 15:32:12.060] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 15:32:12.061] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 15:32:12.063] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 15:32:12.064] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 15:32:12.065] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 15:32:12.066] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 15:32:12.067] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 15:32:12.067] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 15:32:12.070] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 15:32:12.073] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 15:32:15.296] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 15:32:15.296] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 15:32:15.297] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 15:32:15.297] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 15:32:15.297] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 15:32:15.298] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 15:32:15.299] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 15:32:15.299] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 15:32:15.299] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 15:32:15.300] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 15:32:15.300] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 15:32:15.300] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 15:32:15.301] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 15:32:23.914] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=-57, z=336}
+[08Aug2025 15:32:26.982] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=-57, z=333}
+[08Aug2025 15:32:27.008] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[08Aug2025 15:32:27.008] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[08Aug2025 15:32:27.009] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
+[08Aug2025 15:32:27.009] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
+[08Aug2025 15:32:27.010] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
+[08Aug2025 15:32:27.010] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
+[08Aug2025 15:32:27.011] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
+[08Aug2025 15:32:27.011] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
+[08Aug2025 15:35:48.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato has made the advancement [Leon]
+[08Aug2025 15:37:20.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3lpato lost connection: Timed out
+[08Aug2025 15:37:20.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato left the game
+[08Aug2025 15:38:49.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 1 [Iron Pickaxe] to LITEDUKxd]
+[08Aug2025 15:39:08.788] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3lpato[/127.108.219.28:52721] logged in with entity id 20822 at (220.69999998807907, 70.0, -746.5996626912618)
+[08Aug2025 15:39:08.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato joined the game
+[08Aug2025 15:41:07.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] uwu
+[08Aug2025 15:41:43.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] estoy rodeado de negros
+[08Aug2025 15:42:49.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Set the time to 1000]
+[08Aug2025 15:47:01.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 30 [Bone] to LITEDUKxd]
+[08Aug2025 15:47:05.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd has made the advancement [Best Friends Forever]
+[08Aug2025 15:48:40.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LITEDUKxd moved too quickly! 1.404189582441063,-8.004577394929697,6.440947888256417
+[08Aug2025 15:49:09.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 40 [Torch] to makelupe]
+[08Aug2025 15:52:09.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Set the time to 1000]
+[08Aug2025 16:02:26.491] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3lpato lost connection: Timed out
+[08Aug2025 16:02:26.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato left the game
+[08Aug2025 16:03:22.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Set the time to 1000]
+[08Aug2025 16:04:14.237] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4cf7f8f8[id=<null>,name=3lpato,properties={},legacy=false] (/127.108.219.28:49975) lost connection: Disconnected
+[08Aug2025 16:04:33.137] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3lpato[/127.108.219.28:49229] logged in with entity id 49840 at (219.30000001192093, 69.5, -747.6999999880791)
+[08Aug2025 16:04:33.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato joined the game
+[08Aug2025 16:04:52.536] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49906, l='ServerLevel[world]', x=128.30, y=91.00, z=-693.70] died, message: 'Villager was slain by Walker'
+[08Aug2025 16:09:03.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3lpato lost connection: Timed out
+[08Aug2025 16:09:03.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato left the game
+[08Aug2025 16:09:03.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato was slain by Walker
+[08Aug2025 16:09:53.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3lpato[/127.108.219.28:35233] logged in with entity id 56289 at (217.69999998807907, 68.0, -743.7618376307045)
+[08Aug2025 16:09:53.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato joined the game
+[08Aug2025 16:14:37.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3lpato was kicked for floating too long!
+[08Aug2025 16:14:37.790] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3lpato lost connection: Flying is not enabled on this server
+[08Aug2025 16:14:37.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato left the game
+[08Aug2025 16:15:18.287] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3lpato[/127.108.219.28:35573] logged in with entity id 61513 at (-227.69299550058278, 69.49520087700593, -858.5712369953545)
+[08Aug2025 16:15:18.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato joined the game
+[08Aug2025 16:16:21.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LITEDUKxd> 20 runners y sin joda
+[08Aug2025 16:16:24.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LITEDUKxd> ;_;
+[08Aug2025 16:16:51.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato was slain by Runner
+[08Aug2025 16:20:28.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 4 [Dirt] to LITEDUKxd]
+[08Aug2025 16:23:53.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato was slain by Walker
+[08Aug2025 16:26:03.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3lpato was kicked for floating too long!
+[08Aug2025 16:26:03.333] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3lpato lost connection: Flying is not enabled on this server
+[08Aug2025 16:26:03.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato left the game
+[08Aug2025 16:27:27.683] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3lpato[/127.108.219.28:32831] logged in with entity id 72012 at (-99.32358308256921, 76.17675927506424, -945.0839426587673)
+[08Aug2025 16:27:27.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato joined the game
+[08Aug2025 16:32:29.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Set the time to 1000]
+[08Aug2025 16:34:08.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3lpato was kicked for floating too long!
+[08Aug2025 16:34:08.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3lpato lost connection: Flying is not enabled on this server
+[08Aug2025 16:34:08.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato left the game
+[08Aug2025 16:35:30.493] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3lpato[/127.108.219.28:44333] logged in with entity id 85768 at (-211.3266403422403, 86.7531999805212, -1080.9701501289774)
+[08Aug2025 16:35:30.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato joined the game
+[08Aug2025 16:37:00.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3lpato lost connection: Timed out
+[08Aug2025 16:37:00.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato left the game
+[08Aug2025 16:37:21.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 36 [Money] to 2]
+[08Aug2025 16:37:23.299] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 3lpato[/127.108.219.28:40281] logged in with entity id 88214 at (-199.4322833136298, 85.0, -1112.2509078623023)
+[08Aug2025 16:37:23.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato joined the game
+[08Aug2025 16:37:47.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <makelupe> a
+[08Aug2025 16:37:48.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 36 [Money] to 3lpato]
+[08Aug2025 16:40:18.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato was slain by Runner
+[08Aug2025 16:41:06.714] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
+[08Aug2025 16:41:06.714] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
+[08Aug2025 16:41:06.715] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
+[08Aug2025 16:41:06.715] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
+[08Aug2025 16:41:06.715] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
+[08Aug2025 16:41:06.716] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
+[08Aug2025 16:41:14.670] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[08Aug2025 16:41:14.670] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[08Aug2025 16:43:28.296] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombiekit:uv_lamp_entity
+[08Aug2025 16:43:28.307] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 16:43:28.307] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 16:43:28.307] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 16:43:28.308] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 16:43:28.308] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 16:43:28.308] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 16:43:28.308] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 16:43:28.309] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 16:43:28.309] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 16:43:28.309] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 16:43:28.309] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 16:43:28.310] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 16:43:28.418] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 16:43:28.418] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 16:43:28.418] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 16:43:28.419] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 16:43:28.419] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 16:43:28.419] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 16:43:28.419] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 16:43:28.420] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 16:43:28.420] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 16:43:28.420] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 16:43:28.420] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 16:43:28.420] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 16:43:28.421] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[08Aug2025 16:44:23.144] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[08Aug2025 16:44:23.145] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[08Aug2025 16:44:23.145] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
+[08Aug2025 16:44:23.145] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
+[08Aug2025 16:44:23.145] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
+[08Aug2025 16:44:23.145] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
+[08Aug2025 16:44:23.146] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
+[08Aug2025 16:44:23.146] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
+[08Aug2025 16:47:19.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Teleported LITEDUKxd to makelupe]
+[08Aug2025 16:50:38.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd has made the advancement [Not Today, Thank You]
+[08Aug2025 16:50:39.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 3lpato lost connection: Timed out
+[08Aug2025 16:50:39.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato left the game
+[08Aug2025 16:51:45.114] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/99419, l='ServerLevel[world]', x=2695.40, y=63.54, z=94.56] died, message: 'Villager was slain by Walker'
+[08Aug2025 16:51:50.918] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/98927, l='ServerLevel[world]', x=2652.75, y=66.94, z=91.50] died, message: 'Villager was slain by Runner'
+[08Aug2025 16:52:23.860] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/99417, l='ServerLevel[world]', x=2586.84, y=75.00, z=67.48] died, message: 'Farmer died because of Runner'
+[08Aug2025 16:53:10.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: makelupe was slain by Walker
+[08Aug2025 16:56:50.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Teleported makelupe to LITEDUKxd]
+[08Aug2025 16:58:00.122] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=-57, z=333}
+[08Aug2025 16:58:00.123] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=-57, z=336}
+[08Aug2025 17:00:47.739] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=43}
+[08Aug2025 17:00:47.740] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=43}
+[08Aug2025 17:00:47.740] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=40}
+[08Aug2025 17:00:47.740] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-59, z=33}
+[08Aug2025 17:00:47.740] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=40}
+[08Aug2025 17:00:47.740] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-59, z=33}
+[08Aug2025 17:00:53.614] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-58, z=31}
+[08Aug2025 17:00:53.614] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=31}
+[08Aug2025 17:04:13.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from LITEDUKxd: Location (2976.2751881480217, 70.22302260994911, 118.4375) too far away from hit block BlockPos{x=2976, y=70, z=119}.
