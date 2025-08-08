@@ -522,7 +522,8 @@
       "mutton": "2025-08-07 20:50:09 +0000",
       "bread": "2025-08-07 19:38:21 +0000",
       "beetroot": "2025-08-07 19:39:51 +0000",
-      "cooked_chicken": "2025-08-07 19:18:54 +0000"
+      "cooked_chicken": "2025-08-07 19:18:54 +0000",
+      "carrot": "2025-08-08 18:38:35 +0000"
     },
     "done": false
   },
@@ -1911,6 +1912,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-08-08 18:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-08 18:37:12 +0000"
     },
     "done": true
   },

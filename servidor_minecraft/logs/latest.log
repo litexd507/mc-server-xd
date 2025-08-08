@@ -816,3 +816,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Aug2025 18:28:37.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 3lpato left the game
 [08Aug2025 18:30:30.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: makelupe died
 [08Aug2025 18:30:33.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd was slain by Runner
+[08Aug2025 18:36:50.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: makelupe drowned
+[08Aug2025 18:38:41.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Teleported makelupe to LITEDUKxd]
+[08Aug2025 18:38:44.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: makelupe has made the advancement [Hot Stuff]
+[08Aug2025 18:39:39.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd drowned
+[08Aug2025 18:39:50.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Teleported makelupe to LITEDUKxd]
+[08Aug2025 18:39:58.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: makelupe died because of LITEDUKxd
+[08Aug2025 18:43:54.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd was poked to death by a barbed wire while trying to escape makelupe 
