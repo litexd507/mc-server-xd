@@ -2020,3 +2020,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [08Aug2025 01:58:59.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 1 [Flint and Steel] to LITEDUKxd]
 [08Aug2025 01:59:27.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Aug2025 01:59:27.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 02:04:27.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 02:04:27.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 02:07:39.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 64 [Copper Ingot] to LITEDUKxd]
+[08Aug2025 02:08:55.561] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from sona.mixins.json into net.minecraft.world.CompoundContainer
+[08Aug2025 02:09:27.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 02:09:27.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 02:11:15.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LITEDUKxd> a
+[08Aug2025 02:11:20.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [LITEDUKxd] xd
+[08Aug2025 02:14:27.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 02:14:27.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 02:19:27.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 02:19:27.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
