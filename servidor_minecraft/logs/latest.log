@@ -544,3 +544,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [09Aug2025 17:06:04.935] [Server thread/INFO] [net.stardustlabs.terralith.Terralith/]: Thanks for choosing Terralith!
 [09Aug2025 17:06:15.429] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LITEDUKxd[/127.224.192.125:56239] logged in with entity id 32 at (-75.05596095741349, 70.0042443015072, -972.4472701079878)
 [09Aug2025 17:06:15.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd joined the game
+[09Aug2025 17:21:19.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Summoned new Warden]
+[09Aug2025 17:21:45.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Summoned new Warden]
