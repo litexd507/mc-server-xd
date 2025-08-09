@@ -2084,6 +2084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-08-09 17:38:07 +0000"
+    },
+    "done": true
+  },
   "mts:instrumentbench": {
     "criteria": {
       "instrumentbench": "2025-08-09 17:23:21 +0000"
@@ -2093,6 +2099,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-08-09 17:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-08-09 17:38:07 +0000"
     },
     "done": true
   },
