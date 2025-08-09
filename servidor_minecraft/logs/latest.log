@@ -552,3 +552,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [09Aug2025 17:38:57.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 600 [Iron Ingot] to LITEDUKxd]
 [09Aug2025 17:57:20.495] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15579, l='ServerLevel[world]', x=-182.15, y=73.50, z=-415.53] died, message: 'Villager was slain by Runner'
 [09Aug2025 18:04:03.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 1 [Diamond Pickaxe] to LITEDUKxd]
+[09Aug2025 18:08:09.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 600 [Raw Iron] to LITEDUKxd]
+[09Aug2025 18:09:46.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd was slain by Walker
+[09Aug2025 18:09:47.720] [Server thread/ERROR] [mts/]: MTSERROR: Failed to load tile entity on builder from saved NBT.  Did a pack change?
+[09Aug2025 18:09:47.720] [Server thread/ERROR] [mts/]: MTSERROR: Was asked to auto-generate a definition on an entity with one not defined.  This is NOT allowed.  The entity must be missing its item.  Perhaps a pack was removed with this entity still in the world?
+[09Aug2025 18:09:47.721] [Server thread/ERROR] [mts/]: MTSERROR: Failed to load tile entity on builder from saved NBT.  Did a pack change?
+[09Aug2025 18:09:47.721] [Server thread/ERROR] [mts/]: MTSERROR: Was asked to auto-generate a definition on an entity with one not defined.  This is NOT allowed.  The entity must be missing its item.  Perhaps a pack was removed with this entity still in the world?
+[09Aug2025 18:09:47.721] [Server thread/ERROR] [mts/]: MTSERROR: Failed to load tile entity on builder from saved NBT.  Did a pack change?
+[09Aug2025 18:09:47.722] [Server thread/ERROR] [mts/]: MTSERROR: Was asked to auto-generate a definition on an entity with one not defined.  This is NOT allowed.  The entity must be missing its item.  Perhaps a pack was removed with this entity still in the world?
+[09Aug2025 18:09:47.722] [Server thread/ERROR] [mts/]: MTSERROR: Failed to load tile entity on builder from saved NBT.  Did a pack change?
+[09Aug2025 18:09:47.722] [Server thread/ERROR] [mts/]: MTSERROR: Was asked to auto-generate a definition on an entity with one not defined.  This is NOT allowed.  The entity must be missing its item.  Perhaps a pack was removed with this entity still in the world?
+[09Aug2025 18:10:12.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 20 [Diamond] to LITEDUKxd]
