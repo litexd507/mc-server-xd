@@ -545,3 +545,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [09Aug2025 16:34:04.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd joined the game
 [09Aug2025 16:34:07.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3137ms or 62 ticks behind
 [09Aug2025 16:34:32.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Set own game mode to Creative Mode]
+[09Aug2025 16:53:32.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LITEDUKxd lost connection: Disconnected
+[09Aug2025 16:53:32.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd left the game
+[09Aug2025 16:56:04.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LITEDUKxd[/127.224.192.125:35415] logged in with entity id 7783 at (-67.53740133179511, 70.0042443015072, -918.2527807375225)
+[09Aug2025 16:56:04.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LITEDUKxd joined the game
