@@ -550,3 +550,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [09Aug2025 17:35:57.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 4 [Scissors] to LITEDUKxd]
 [09Aug2025 17:37:06.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Set own game mode to Survival Mode]
 [09Aug2025 17:38:57.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 600 [Iron Ingot] to LITEDUKxd]
+[09Aug2025 17:57:20.495] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15579, l='ServerLevel[world]', x=-182.15, y=73.50, z=-415.53] died, message: 'Villager was slain by Runner'
+[09Aug2025 18:04:03.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LITEDUKxd: Gave 1 [Diamond Pickaxe] to LITEDUKxd]
